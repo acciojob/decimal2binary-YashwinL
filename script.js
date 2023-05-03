@@ -4,12 +4,12 @@ function binary(){
 	let binarynumber="";
 
 	while(val>0){
-		var reminder = val%2;
+		var remainder = val%2;
 		binarynumber = remainder + binarynumber;
-		val = Math.Floor(val/2);
+		val = Math.floor(val/2);
 	}
 
-	alert(binarynumber);
+	console.log(binarynumber);
 }
 
 
