@@ -1,10 +1,8 @@
 function threeSum(arr, target) {
 // write your code here
+	alert(target);
   console.log("hi")
 }
 
-function temp(){
-	alert("hi");
-}
 
 module.exports = threeSum;
