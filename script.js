@@ -9,7 +9,7 @@ function binary(){
 		val = Math.Floor(val/2);
 	}
 
-	console.log(binarynumber);
+	alert(binarynumber);
 }
 
 
