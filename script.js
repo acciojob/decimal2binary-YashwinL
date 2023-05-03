@@ -9,7 +9,7 @@ function binary(){
 		val = Math.Floor(val/2);
 	}
 
-	document.getElementById("binaryNumber").innerHTML = binarynumber;
+	console.log(binarynumber);
 }
 
 
