@@ -1,5 +1,5 @@
 function binary(){
-	let val = document.getElementById("deicmalNumber").value;
+	let val = document.getElementById("decimalNumber").value;
 
 	let binarynumber="";
 
